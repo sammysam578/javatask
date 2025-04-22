@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "task25",
+            "request": "launch",
+            "mainClass": "task25",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task24",
+            "request": "launch",
+            "mainClass": "task24",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task23",
+            "request": "launch",
+            "mainClass": "task23",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task22",
+            "request": "launch",
+            "mainClass": "task22",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task21",
+            "request": "launch",
+            "mainClass": "task21",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task20",
+            "request": "launch",
+            "mainClass": "task20",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task19",
+            "request": "launch",
+            "mainClass": "task19",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task18",
+            "request": "launch",
+            "mainClass": "task18",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task17",
+            "request": "launch",
+            "mainClass": "task17",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task16",
+            "request": "launch",
+            "mainClass": "task16",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task15",
+            "request": "launch",
+            "mainClass": "task15",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task14",
+            "request": "launch",
+            "mainClass": "task14",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task13",
+            "request": "launch",
+            "mainClass": "task13",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task12",
+            "request": "launch",
+            "mainClass": "task12",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task11",
+            "request": "launch",
+            "mainClass": "task11",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task10",
+            "request": "launch",
+            "mainClass": "task10",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task9",
+            "request": "launch",
+            "mainClass": "task9",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task8",
+            "request": "launch",
+            "mainClass": "task8",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task7",
+            "request": "launch",
+            "mainClass": "task7",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task6",
+            "request": "launch",
+            "mainClass": "task6",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task5",
+            "request": "launch",
+            "mainClass": "task5",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task4",
+            "request": "launch",
+            "mainClass": "task4",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task3",
+            "request": "launch",
+            "mainClass": "task3",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "task2",
+            "request": "launch",
+            "mainClass": "task2",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "java_a3b45dfa"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_a3b45dfa"
+        }
+    ]
+}
